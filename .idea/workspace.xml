@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec9e829-1225-4b33-87ec-7013f4b3f195" name="Default" comment="" />
+    <list default="true" id="cec9e829-1225-4b33-87ec-7013f4b3f195" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+    </list>
     <ignored path="delivery-food.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,23 +27,33 @@
     <favorites_list name="delivery-food" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="restaurant.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/restaurant.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3242">
-              <caret line="29" column="59" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
-              <folding />
+            <state relative-caret-position="465">
+              <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!block;n#toggleModalAuth#0" expanded="false" />
+                <element signature="n#!!block;n#authorized#0" expanded="false" />
+                <element signature="n#!!block;n#notAuthorized#0" expanded="false" />
+                <element signature="n#!!block;n#checkAuth#0" expanded="false" />
+                <element signature="n#!!block;n#createCardRestaurants#0" expanded="false" />
+                <element signature="n#!!block;n#createCardGood#0" expanded="false" />
+                <element signature="n#!!block;n#openGoods#0" expanded="false" />
+                <element signature="e#4733#4855#0" expanded="false" />
+                <marker date="1588755652613" expanded="false" signature="2724:3184" ph="..." />
+                <marker date="1588755652613" expanded="true" signature="2831:3174" ph="..." />
+                <marker date="1588755652613" expanded="true" signature="2865:2975" ph="..." />
+                <marker date="1588755652613" expanded="true" signature="3006:3161" ph="..." />
+                <marker date="1588755652613" expanded="true" signature="3035:3063" ph="..." />
+                <marker date="1588755652613" expanded="false" signature="3481:4070" ph="..." />
+                <marker date="1588755652613" expanded="true" signature="3515:3595" ph="..." />
+                <marker date="1588755652613" expanded="true" signature="3626:3769" ph="..." />
+                <marker date="1588755652613" expanded="true" signature="3660:3755" ph="..." />
+                <marker date="1588755652613" expanded="true" signature="3803:4057" ph="..." />
+                <marker date="1588755652613" expanded="true" signature="3866:3988" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,8 +61,20 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="462" column="42" selection-start-line="462" selection-start-column="42" selection-end-line="462" selection-end-column="42" />
+            <state relative-caret-position="420">
+              <caret line="217" column="44" selection-start-line="217" selection-start-column="34" selection-end-line="217" selection-end-column="44" />
+              <folding>
+                <element signature="n#div#1;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restaurant.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restaurant.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="29" column="59" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -56,7 +83,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="7560">
               <caret line="504" column="18" selection-start-line="504" selection-start-column="18" selection-end-line="504" selection-end-column="18" />
               <folding />
             </state>
@@ -64,6 +91,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,7 +114,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -109,8 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -126,34 +156,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="delivery-food" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="delivery-food" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="delivery-food" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="delivery-food" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="delivery-food" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -200,6 +202,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -233,32 +241,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588661268165</updated>
-      <workItem from="1588661269785" duration="6907000" />
+      <workItem from="1588661269785" duration="7277000" />
+      <workItem from="1588751817594" duration="3647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6907000" />
+    <option name="totallyTimeSpent" value="10924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17970401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5024665" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.49753347" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -274,15 +283,70 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/restaurant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#toggleModalAuth#0" expanded="false" />
+            <element signature="n#!!block;n#authorized#0" expanded="false" />
+            <element signature="n#!!block;n#notAuthorized#0" expanded="false" />
+            <element signature="n#!!block;n#checkAuth#0" expanded="false" />
+            <element signature="n#!!block;n#createCardRestaurants#0" expanded="false" />
+            <element signature="n#!!block;n#createCardGood#0" expanded="false" />
+            <element signature="n#!!block;n#openGoods#0" expanded="false" />
+            <element signature="e#4733#4855#0" expanded="false" />
+            <marker date="1588755652613" expanded="false" signature="2724:3184" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="2831:3174" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="2865:2975" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3006:3161" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3035:3063" ph="..." />
+            <marker date="1588755652613" expanded="false" signature="3481:4070" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3515:3595" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3626:3769" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3660:3755" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3803:4057" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3866:3988" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6930">
+          <caret line="462" column="42" selection-start-line="462" selection-start-column="42" selection-end-line="462" selection-end-column="42" />
+          <folding>
+            <element signature="n#div#1;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="504" column="18" selection-start-line="504" selection-start-column="18" selection-end-line="504" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/db/food-band.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -290,7 +354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -298,7 +361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -306,7 +368,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -318,17 +379,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="462" column="42" selection-start-line="462" selection-start-column="42" selection-end-line="462" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="7560">
           <caret line="504" column="18" selection-start-line="504" selection-start-column="18" selection-end-line="504" selection-end-column="18" />
           <folding />
         </state>
@@ -336,17 +389,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/restaurant.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3242">
+        <state relative-caret-position="15">
           <caret line="29" column="59" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="217" column="44" selection-start-line="217" selection-start-column="34" selection-end-line="217" selection-end-column="44" />
+          <folding>
+            <element signature="n#div#1;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="465">
+          <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!block;n#toggleModalAuth#0" expanded="false" />
+            <element signature="n#!!block;n#authorized#0" expanded="false" />
+            <element signature="n#!!block;n#notAuthorized#0" expanded="false" />
+            <element signature="n#!!block;n#checkAuth#0" expanded="false" />
+            <element signature="n#!!block;n#createCardRestaurants#0" expanded="false" />
+            <element signature="n#!!block;n#createCardGood#0" expanded="false" />
+            <element signature="n#!!block;n#openGoods#0" expanded="false" />
+            <element signature="e#4733#4855#0" expanded="false" />
+            <marker date="1588755652613" expanded="false" signature="2724:3184" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="2831:3174" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="2865:2975" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3006:3161" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3035:3063" ph="..." />
+            <marker date="1588755652613" expanded="false" signature="3481:4070" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3515:3595" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3626:3769" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3660:3755" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3803:4057" ph="..." />
+            <marker date="1588755652613" expanded="true" signature="3866:3988" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
